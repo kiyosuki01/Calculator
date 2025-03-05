@@ -20,4 +20,4 @@ This is a simple console-based calculator written in C#. It supports basic arith
 
 ## Acknowledgment
 
-This code is based on the tutorial from [Microsoft Learn]([https://learn.microsoft.com/](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)).
+This code is based on the tutorial from [Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
